@@ -62,27 +62,6 @@
             <scope>provided</scope>
         </dependency>
 
-
-        <!-- https://mvnrepository.com/artifact/com.google.apis/google-api-services-youtube -->
-        <dependency>
-            <groupId>com.google.apis</groupId>
-            <artifactId>google-api-services-youtube</artifactId>
-            <version>v3-rev222-1.25.0</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.google.apis/google-api-services-youtubeAnalytics -->
-        <dependency>
-            <groupId>com.google.apis</groupId>
-            <artifactId>google-api-services-youtubeAnalytics</artifactId>
-            <version>v2-rev272-1.25.0</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/com.google.apis/google-api-services-youtubereporting -->
-        <dependency>
-            <groupId>com.google.apis</groupId>
-            <artifactId>google-api-services-youtubereporting</artifactId>
-            <version>v1-rev748-1.25.0</version>
-        </dependency>
-
     </dependencies>
 
     <build>
